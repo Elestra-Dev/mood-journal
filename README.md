@@ -65,7 +65,7 @@ features/ # auth + mood features
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/mood-journal.git
+git clone https://github.com/Elestra-Dev/mood-journal.git
 cd mood-journal
 
 2. Backend Setup
@@ -142,20 +142,8 @@ mutation {
   }
 }
 
-🛠️ Future Improvements
-
-🔄 Social login (Google, GitHub)
-
-📱 Mobile app (React Native, same GraphQL API)
-
-🧠 AI-based sentiment analysis on notes
-
-👨‍💻 Author
-
 Amit — Full Stack Developer
 💼 Designed with scalability, maintainability, and professional standards in mind.
 
 
 ---
-
-Amit, do you want me to also make a **shorter, interview-friendly README** (1–2 minutes explanation version), or keep this as the official project repo README?
